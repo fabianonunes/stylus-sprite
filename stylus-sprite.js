@@ -1,5 +1,5 @@
 var stylus = require("stylus"),
-    gdlib = require("gd"),
+    gdlib = require("node-gd"),
     pathlib = require('path'),
     exec = require("child_process").exec,
     fs = require("fs");
